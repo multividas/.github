@@ -1,6 +1,6 @@
 # Multividas
 
-<img src="./imgs/cover.png" alt="multividas.com" />
+<img src="https://raw.githubusercontent.com/multividas/.github/main/profile/imgs/cover.png" alt="multividas.com" />
 
 Explore, Engage, Share Threads & Discover Trending #Topics
 
